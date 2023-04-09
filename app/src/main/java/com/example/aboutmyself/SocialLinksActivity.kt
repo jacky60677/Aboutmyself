@@ -26,5 +26,6 @@ class SocialLinksActivity : AppCompatActivity(){
             startActivity(instaIntent)
         }
     }
+    //ok
 
 }
